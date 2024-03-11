@@ -5,7 +5,8 @@
   padding: 0;
 }
 body {
-  background: #9b59b6;
+  background: url(/backgroung.png);
+  background-size: cover;
   font-family: "poppins", sans-serif;
   display: flex;
   flex-wrap: wrap;
